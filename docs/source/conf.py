@@ -6,7 +6,7 @@ project = 'x10tt'
 copyright = '2021, TIMEWARP IT Consulting GmbH'
 author = 'Marius Steinbach'
 
-release = '1.3'
+release = '1.3.0'
 version = '1.3.0'
 
 # -- General configuration
